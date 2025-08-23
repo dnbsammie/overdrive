@@ -108,6 +108,8 @@ Build/
 Builds/
 Art/
 Audio/
+Prefabs/
+TextMesh Pro/
 Scenes/
 *.meta
 
